@@ -1,1 +1,11 @@
+Flask==2.0.1
+pypandoc==1.6.3
+pytesseract==0.3.8
+Pillow==8.3.2
+docx2txt==0.8
+openpyxl==3.0.9
+python-pptx==0.6.21
+PyMuPDF==1.19.6
+SpeechRecognition==3.8.1
+
 
